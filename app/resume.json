@@ -44,8 +44,8 @@
       "url": "https://github.com/ZachParris/MyPodWebAPI",
       "summary": "A Podcast player designed for users to play and discuss their favorite podcasts. Listen to new episodes and blog about what you've heard. I've spent the last two years doing this and filling notebooks with ideas, reminders, and thought experiments. I believe it's just another way to utilize this incredible media platform as well as grow on a personal level and be able to revisit past thoughts and ideas. Utilizing ASP.NET(C#), AngularJS and Bootstrap. -Currently in production.",
       "link": "https://github.com/ZachParris/MyPodWebAPI",
-      "picture": "",
-      "picture2": ""
+      "picture": "https://raw.githubusercontent.com/ZachParris/devume/devume/app/img/MyPod-BE-Capstone.png",
+      "picture2": "https://raw.githubusercontent.com/ZachParris/devume/devume/app/img/MyPod-Search.png"
     },
     {
       "name": "PitStop",
