@@ -6,7 +6,7 @@
     "email": "zachjparris@gmail.com",
     "phone": "832.286.8307",
     "website": "http://zachparris.com",
-    "summary": "Fourth generation jeweler turned junior developer, diehard student of Nashville Software School.  I am fascinated by the world of software development and everything it has to offer! I’m extremely open-minded and curious. I love building/fixing things and solving problems with simple and efficient solutions. Building and fixing things is what I do best. After almost a decade of working on jewelry, I found myself disinterested and looking for a new endeavor. That’s when I sought out Nashville Software School. With no prior experience, to say I was overwhelmed would be an understatement, but the more immersed I became the more I realized coding was my calling. Through this course I have found my passion in software development, and have completely submerged myself in it. I'm thoroughly enjoying meeting people in the Nashville tech community and look forward to continuing my journey and improving my skills as a developer. Please don't hesitate to reach out! Always happy to meet for a coffee/beer/lunch and some shop-talk.",
+    "summary": "As a jeweler, building and fixing things is what I do best. After almost a decade of working on jewelry, I found myself disinterested and looking for a new challenge, a new puzzle to solve, and a place to grow. That’s when I sought out Nashville Software School. A twelve month leap of faith with no prior experience. To say I was overwhelmed would be an understatement, but the more immersed I became the more I realized coding was definitely my calling. Over those 12 months I have found my passion in programming, and have completely submerged myself in it. I love solving complex problems with the most simple and efficient solutions. I’m thoroughly enjoying meeting people in the Nashville tech community and look forward to continuing my journey of improving my skills as a developer! Nothing is more satisfying and rewarding, and as a junior developer I’m determined to soak up all the software knowledge the world has to offer! Please don’t hesitate to reach out!",
     "location": {
       "city": "Nashville",
       "countryCode": "US",
@@ -30,7 +30,7 @@
       "website": "http://nashvillesoftwareschool.com/",
       "startDate": "2016",
       "endDate": "2017",
-      "summary": "Intensive twelve month software development bootcamp. Daily hands on application of OOP fundamentals through group and individual projects. Source code/version control through the use of GitHub",
+      "summary": "Intensive twelve month software development bootcamp. I had hands-on application of OOP fundamentals through group and individual projects. Source code/version control through the use of GitHub",
       "highlights": [
         "C#/.Net development fundamentals and problem solving. ",
         "A full year of experience using Git, Bower, and NPM",
@@ -41,13 +41,19 @@
   "projects": [
     {
       "name": "MyPod",
-      "url": "https://github.com/ZachParris/MyPod-Podcast-App",
-      "summary": "An ASP.NET MVC (C#) Podcast Player - mobile app designed to help user find and share favorite podcasts - Currently in production"
+      "url": "https://github.com/ZachParris/MyPodWebAPI",
+      "summary": "A Podcast player designed for users to play and discuss their favorite podcasts. Listen to new episodes and blog about what you've heard. I've spent the last two years doing this and filling notebooks with ideas, reminders, and thought experiments. I believe it's just another way to utilize this incredible media platform as well as grow on a personal level and be able to revisit past thoughts and ideas. Utilizing ASP.NET(C#), AngularJS and Bootstrap. -Currently in production.",
+      "link": "https://github.com/ZachParris/MyPodWebAPI",
+      "picture": "",
+      "picture2": ""
     },
     {
       "name": "PitStop",
-      "url": "https://github.com/ZachParris/pitstop",
-      "summary": "A jewelry repair intake app with abilities for the user to add customers and take in new jobs with a checklist that ensures a speedy and consistent customer experience, utilizing AngularJS w/ Materialize and Firebase"
+      "url": "https://pitstop-app-zp.firebaseapp.com",
+      "summary": "This is my front-end capstone from my first six months at NSS. A jewelry repair intake app for jewelry stores I wanted to give abilities for the user to add customers and take in new repairs more efficiently. Written in JavaScript, utilizing AngularJS with Materialize and Firebase.",
+      "link": "https://github.com/ZachParris/pitstop",
+      "picture": "https://github.com/ZachParris/pitstop/blob/master/screenshots/ClientList.jpg?raw=true",
+      "picture2": "https://raw.githubusercontent.com/ZachParris/pitstop/master/screenshots/ClientDetail.jpg"
     }
   ],
   "education": [
@@ -63,8 +69,8 @@
     {
       "level": "Languages",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML5",
+        "CSS3",
         "JavaScript",
         "C#",
         "SQL"
